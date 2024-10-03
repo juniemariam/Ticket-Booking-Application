@@ -1,4 +1,4 @@
-# Ticket Booking Application: A Ticketless Entry System for Visiting Monuments and Heritage Places.
+# Ticket Easy: A Ticketless Entry System for Visiting Monuments and Heritage Places.
 
 #### This is a project aimed at revolutionizing the visitor experience at monuments and heritage places by introducing a ticketless entry system. The project leverages modern technology to streamline the entry process, making it convenient and hassle-free for both visitors and administrators.
 
